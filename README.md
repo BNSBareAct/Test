@@ -1,4 +1,4 @@
-# Test
+# BNS Bare Act
 
 [BNS Bare Act](https://www.bnsbareact.org/)
 
