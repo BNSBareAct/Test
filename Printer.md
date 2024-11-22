@@ -7,3 +7,5 @@
 [H5 Games Ads](https://www.bnsbareact.org/blog/h5-games-ads-boost-revenue-with-seamless-ad-integration)
 
 [FlipHTML5](https://www.bnsbareact.org/blog/create-interactive-flipbooks-with-fliphtml5-easy-powerful)
+
+[Samsung](https://www.bnsbareact.org/news/samsung-revolutionizes-mobile-gaming-with-cloud-platform)
