@@ -7,3 +7,5 @@
 [Google Reverse Image Search](https://www.bnsbareact.org/blog/google-reverse-image-search-tool-find-images-online)
 
 [Wordle](https://www.bnsbareact.org/tools/wordle)
+
+[Wordle Answer Today](https://www.bnsbareact.org/tools/wordle)
